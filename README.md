@@ -17,10 +17,10 @@ In the second phase, the project applies the calibration data to rectify the ste
 
 ---------------------------------------------
 
-## Types of Camera Lens Distortions:
+## Lens Distortions:
 
 <p align="center">
-  <img src="data/types_of_dist.png" alt="2" width="1500"/>
+  <img src="data/types_of_Dist.png" alt="2" width="1500"/>
 </p>
 
 ---------------------------------------------
