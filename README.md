@@ -1,4 +1,4 @@
-# Stereo Camera Calibration
+# Stereo Camera Setup & Calibration
 
 <p align="center">
   <img src="data/project_title.png" alt="data/project_title" width="1500"/>
