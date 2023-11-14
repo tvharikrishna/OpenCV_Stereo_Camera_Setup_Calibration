@@ -20,7 +20,7 @@ In the second phase, the project applies the calibration data to rectify the ste
 ## Types of Camera Lens Distortions:
 
 <p align="center">
-  <img src="data/distortions.png" alt="2" width="1000"/>
+  <img src="data/distortions.png" alt="2" width="500"/>
 </p>
 
 ---------------------------------------------
@@ -28,19 +28,19 @@ In the second phase, the project applies the calibration data to rectify the ste
 ## Project Guide:
 
 <p align="center">
-  <img src="data/step1.png" alt="2" width="1000"/>
+  <img src="data/step_1.jpg" alt="2" width="350"/>
 </p>
 
 <p align="center">
-  <img src="data/step2.png" alt="2" width="1000"/>
+  <img src="data/step_2.jpg" alt="2" width="350"/>
 </p>
 
 <p align="center">
-  <img src="data/step3.png" alt="2" width="1000"/>
+  <img src="data/step_3.jpg" alt="2" width="350"/>
 </p>
 
 <p align="center">
-  <img src="data/step4.png" alt="2" width="1000"/>
+  <img src="data/step_4.jpg" alt="2" width="350"/>
 </p>
 
 ---------------------------------------------
@@ -50,7 +50,6 @@ In the second phase, the project applies the calibration data to rectify the ste
 The Python scripts provided are twofold: one for capturing images for calibration and the other for calibrating the camera. The scripts also output the camera parameters and save them in a text file.
 
 `image_captures.py` → Captures images from the camera and saves them.
-
 `stereo_camera_calibration.py` → Calibrates the camera using the captured images from both the left and right cameras.
 
 To use this code:
