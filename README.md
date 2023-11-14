@@ -60,7 +60,8 @@ To use this code:
 3. Set up the camera; ensure it remains immobile after the calibration process.
 4. Modify the path in both scripts to your own.
 5. Run `image_captures.py` to capture and save the images.
-6.Using the captured images, execute `stereo_camera_calibration.py` to begin calibrating both cameras. This will save your camera parameters in a text file.
+6.Using the captured images, execute `stereo_camera_calibration.py` to begin calibrating both camera's.
+7. This will save your camera parameters in a text file.
 
 ---------------------------------------------
 
