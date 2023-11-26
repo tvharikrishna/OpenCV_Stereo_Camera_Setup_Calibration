@@ -1,4 +1,8 @@
-# Stereo Camera Setup & Calibration
+<div align="center">
+  <h1>Stereo Camera Setup & Calibration</h1>
+</div>
+
+<br>
 
 <p align="center">
   <img src="data/project_title.png" alt="data/project_title" width="1500"/>
@@ -6,7 +10,7 @@
 
 ---------------------------------------------
 
-## About this Project:
+##  ★ About this Project:
 This project delves into the realm of Computer Vision with a focus on setting up and calibrating a stereo camera system using OpenCV, a leading open-source computer vision library. Stereo camera calibration is crucial for accurate depth estimation and 3D reconstruction, as it corrects for lens distortion and aligns the two cameras to a common viewpoint. The calibration process involves capturing images of a known pattern, such as a checkerboard, from different angles and then using these images to find the camera's internal and external parameters.
 
 In the second phase, the project applies the calibration data to rectify the stereo images, aligning them to the same plane and making them suitable for computer vision tasks like object detection and ranging. This is an essential step in preparing the system for complex applications such as autonomous navigation, robotic manipulation, and 3D scanning. The use of Python alongside OpenCV provides a powerful and flexible development environment, enabling the creation of sophisticated computer vision applications. The project's success in stereo camera setup and calibration paves the way for further exploration and implementation of advanced computer vision capabilities.
@@ -17,7 +21,7 @@ In the second phase, the project applies the calibration data to rectify the ste
 
 ---------------------------------------------
 
-## Lens Distortions:
+##  ★ Lens Distortions:
 
 <p align="center">
   <img src="data/types_of_Dist.png" alt="2" width="1500"/>
@@ -25,7 +29,7 @@ In the second phase, the project applies the calibration data to rectify the ste
 
 ---------------------------------------------
 
-## Project Guide:
+##  ★ Project Guide:
 
 <p align="center">
   <img src="data/step1.png" alt="2" width="1500"/>
@@ -45,7 +49,7 @@ In the second phase, the project applies the calibration data to rectify the ste
 
 ---------------------------------------------
 
-## How to use my code?
+##  ★ How to use my code?
 
 The Python scripts provided are twofold: one for capturing images for calibration and the other for calibrating the camera. The scripts also output the camera parameters and save them in a text file.
 
@@ -65,7 +69,7 @@ To use this code:
 
 ---------------------------------------------
 
-## My Project Video Demonstration:
+##  ★ My Project Video Demonstration:
 
 <p align="center">
   
